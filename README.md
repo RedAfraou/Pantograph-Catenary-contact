@@ -3,7 +3,8 @@
 > The program is still under developpement but gives relatively good results at the moment.
 
 
-![](image.PNG)
+
+<img src="Capture.PNG" alt="Sample" width="600"/>
 
 ## How to run the program?
 Run the following:
