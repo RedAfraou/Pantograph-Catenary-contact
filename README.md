@@ -3,7 +3,7 @@
 > The program is still under developpement but gives relatively good results at the moment.
 
 
-![](image.png)
+![](image.PNG)
 
 ## How to run the program?
 Run the following:
