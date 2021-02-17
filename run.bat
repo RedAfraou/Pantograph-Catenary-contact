@@ -1,0 +1,1 @@
+start cmd.exe @cmd /k "python contact_detection.py"
