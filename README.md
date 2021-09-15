@@ -1,6 +1,6 @@
 # Pantograph-Catenary-contact
 > This code maps the contact point between the catenary and the pantograph bow given a video input.
-> The program is still under developpement but gives relatively good results at the moment.
+> The program is still under developpement but already gives good results.
 
 
 
