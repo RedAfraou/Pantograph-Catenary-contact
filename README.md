@@ -1,6 +1,6 @@
 # Pantograph-Catenary-contact
-> This code maps the contact point between the catenary and the pantograph bow given a video input.
-> The program is still under developpement but already gives good results.
+This project aims to ensure train travel security as well as help the maintenance crew pinpoint where and when the contact between the train pantograph and catenary is ruptured because such an event ruptures the movement of the train and can cause complications. The crew can then fix the problem manually. 
+To dot this, this code maps the contact point between the catenary and the pantograph bow given a video input. When the identified contact point leaves the pantograph "interval" we know there is a rupture.
 
 
 
