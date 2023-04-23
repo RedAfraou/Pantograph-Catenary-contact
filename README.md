@@ -4,7 +4,7 @@ To dot this, this code maps the contact point between the catenary and the panto
 
 [![Demo Doccou alpha](demo_gif.gif)]
 
-<img src="Capture.PNG" alt="Sample" width="600"/>
+<img src="demo_gif.gif" alt="Sample" width="600"/>
 
 ## How to run the program?
 Run the following:
